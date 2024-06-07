@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
+  <head></head>
+  <body>
+    <h1>Watch out for the flying cat!</h1>
+    <p>
+      Here it comes:
+      <img src="http://bit.ly/r3fgru" />
+    </p>
+  </body>
 </html>
