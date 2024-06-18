@@ -1,13 +1,24 @@
 <!DOCTYPE html>
 <html>
-  <head></head>
+  <head>
+    <title>Div Align Attribbute</title>
+  </head>
   <body>
-    <h1>Watch out for the flying cat!</h1>
-    <p>
-      Here it comes:
-      <img src="http://bit.ly/r3fgru" />
-    </p>
-	<br>
-	<p> This modification is done to check auto building in Jenkins </p>
+    <div align="left">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
+    <div align="right">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
+    <div align="center">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
+    <div align="justify">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+    </div>
   </body>
 </html>
