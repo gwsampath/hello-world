@@ -2,6 +2,8 @@
 <html>
   <head>
     <title>Div Align Attribbute</title>
+    <br>
+    <title> Adding things to index.jsp </title>
   </head>
   <body>
     <div align="left">
