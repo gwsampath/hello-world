@@ -1,26 +1,25 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Div Align Attribbute</title>
-    <br>
-    <title> Adding things to index.jsp </title>
-  </head>
-  <body>
-    <div align="left">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-    <div align="right">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-    <div align="center">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-    <div align="justify">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-      labore et dolore magna aliqua.
-    </div>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Quiz</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="quiz-styles.css">
+</head>
+<body>
+
+<div class="container mt-5">
+  <div id="quiz-container" class="text-center">
+      <h1 id="question">Question Text</h1>
+      <div id="options" class="my-4">
+          <!-- Options will be populated here by JavaScript -->
+      </div>
+      <button id="next-button" class="btn btn-primary">Next Question</button>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="quiz-scripts.js"></script>
+</body>
 </html>
