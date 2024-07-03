@@ -6,7 +6,7 @@
     <h1>Register Your New Account</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-
+    <P>You are eperiecing a fully automated deployment.</p>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
