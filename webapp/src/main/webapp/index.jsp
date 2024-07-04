@@ -6,7 +6,7 @@
     <h1>Register Your New Account</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <h2>You are experiencing a fully automated deployment by LESG trainee SAMPATH</h2>
+    <h2>You are experiencing a fully automated deployment by LESG trainee SAMPATH.</h2>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
