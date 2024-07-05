@@ -4,7 +4,7 @@
 	  <style>h1 {text-align: center;} </style> 
     <h1>WELCOME TO NEW REGISTRY</h1>	  
     <h1>Register Your New Account</h1>
-    <p>Please fill in this form to create an account</p>
+    <p>Please fill in this form to create an account.</p>
     <hr>
     <h2>You are experiencing a fully automated deployment by LESG trainee SAMPATH</h2>
     <label for="email"><b>Email</b></label>
